@@ -3,8 +3,9 @@ import React, {Component} from 'react';
 class Contact extends Component {
   render() {
     return (
-      <div>
+      <div className="content">
         <h1>Contact</h1>
+
         <p>I am interested in both contracting and
          full-time work. My resume is available upon request.
           Please email me at kburgos@alumni.ufl.edu.
